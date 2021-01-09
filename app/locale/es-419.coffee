@@ -34,7 +34,7 @@ module.exports = nativeDescription: "Español (América Latina)", englishDescrip
     classroom_in_box_blurb3: "Inspirar a todos los líderes escolares para crear un programa de Ciencias de la Computación de clase mundial."
 #    classroom_in_box_blurb4: ""
 #    covid19_banner_blurb: "We are offering free access to our full curriculum to educators and schools affected by school closures."
-#    click_here: "Click here"
+    click_here: "Click aquí"
     creativity_rigor_title: "Donde la creatividad alcanza el rigor"
     creativity_rigor_subtitle1: "Haga que la programación sea divertida y enseñe habilidades del mundo real"
     creativity_rigor_blurb1: "Los estudiantes escriben Python y JavaScript real mientras juegan juegos que fomentan el ensayo y error, el pensamiento crítico y la creatividad. Luego, los estudiantes aplican las habilidades de programación que han aprendido al desarrollar sus propios juegos y sitios web en cursos basados en proyectos."
@@ -164,7 +164,7 @@ module.exports = nativeDescription: "Español (América Latina)", englishDescrip
 #    ozaria: "Ozaria"
 #    codecombat_blurb: "Our original coding game. Recommended for parents, individuals, educators, and students who want to experience one of the most-loved coding games in the world."
 #    ozaria_blurb: "An adventure game and Computer Science program where students master the lost magic of coding to save their world. Recommended for educators and students."
-#    try_codecombat: "Try CodeCombat"
+    try_codecombat: "Prueba CodeCombat"
 #    try_ozaria: "Try Ozaria"
 
   nav:
@@ -439,12 +439,12 @@ module.exports = nativeDescription: "Español (América Latina)", englishDescrip
     eu_confirmation_individual: "Si no deseas que almacenemos tus datos en servidores de EE. UU., Siempre puedes seguir jugando de forma anónima sin guardar tu código."
 #    password_requirements: "8 to 64 characters with no repeating"
 #    invalid: "Invalid"
-#    invalid_password: "Invalid password"
+    invalid_password: "Contraseña invalida"
 #    with: "with"
 #    want_to_play_codecombat: "No, I don't have one but want to play CodeCombat!"
-#    have_a_classcode: "Have a Class Code?"
-#    yes_i_have_classcode: "Yes, I have a Class Code!"
-#    enter_it_here: "Enter it here:"
+    have_a_classcode: "¿Tienes el código de una clase?"
+    yes_i_have_classcode: "Si, tengo un código de clase!"
+    enter_it_here: "Ingresalo aquí:"
 
   recover:
     recover_account_title: "recuperar cuenta"
@@ -558,9 +558,9 @@ module.exports = nativeDescription: "Español (América Latina)", englishDescrip
     more: "Más"
     fewer: "Menos"
     with: "con"
-#    chat: "Chat"
-#    chat_with_us: "Chat with us"
-#    email_us: "Send us an email"
+    chat: "Chat"
+    chat_with_us: "Chatea con nosotros"
+    email_us: "Envianos un mail"
 
   units:
     second: "segundo"
@@ -798,9 +798,9 @@ module.exports = nativeDescription: "Español (América Latina)", englishDescrip
     future_eng_5: "programa que crea oportunidades de aprendizaje y trabajo para todos los estudiantes de K-12 en los Estados Unidos que desean dedicarse a Ciencias de la Computación."
 
 #  live_class:
-#    title: "Thank you!"
-#    content: "Amazing! We just launched live online classes."
-#    link: "Ready to get ahead on your coding?"
+    title: "¡Gracias!"
+    content: "¡Excelente! Hemos lanzado recientemente nuestras clases onlines."
+    link: "¿Listo para ir a codear?"
 
 #  code_quest:
 #    great: "Great!"
@@ -808,7 +808,7 @@ module.exports = nativeDescription: "Español (América Latina)", englishDescrip
 #    link: "Click here to register and learn more"
 #    global_tournament: "Global Tournament"
 #    register: "Register"
-#    date: "Aug 1 - Aug 31"
+    date: "Ago 1 - Ago 31"
 
   play_game_dev_level:
     created_by: "Creado por {{name}}"
@@ -915,7 +915,7 @@ module.exports = nativeDescription: "Español (América Latina)", englishDescrip
     sorry_to_see_you_go: "¡Sentimos que te vayas! Por favor, haznos saber lo que podríamos haber hecho mejor."
     unsubscribe_feedback_placeholder: "¿Pero qué hemos hecho?"
     stripe_description: "Suscripción Mensual"
-#    stripe_yearly_description: "Annual Subscription"
+    stripe_yearly_description: "Suscripción Anual"
     buy_now: "Comprar ahora"
     subscription_required_to_play: "Necesitas una suscripción para jugar este nivel."
     unlock_help_videos: "Suscríbete para desbloquear todos los video tutoriales."
@@ -1051,11 +1051,11 @@ module.exports = nativeDescription: "Español (América Latina)", englishDescrip
     restricted_to_certain_heroes: "Sólo ciertos héroes pueden jugar este nivel."
 
 #  char_customization_modal:
-#    heading: "Customize Your Hero"
-#    body: "Body"
-#    name_label: "Hero's Name"
-#    hair_label: "Hair Color"
-#    skin_label: "Skin Color"
+    heading: "Personalizar tu héroe"
+    body: "Cuerpo"
+    name_label: "Nombre del Héroe"
+    hair_label: "Color de pelo"
+    skin_label: "Color de piel"
 
   skill_docs:
     function: "función" # skill types
@@ -1400,8 +1400,8 @@ module.exports = nativeDescription: "Español (América Latina)", englishDescrip
     beautify: "Hacer bello tu código estandarizando formato."
     maximize_editor: "Maximizar/minimizar editor de código."
 
-#  cinematic:
-#    click_anywhere_continue: "click anywhere to continue"
+  cinematic:
+    click_anywhere_continue: "Clickea en cualquier lado para continuar"
 
   community:
     main_title: "Comunidad CodeCombat"
@@ -1649,10 +1649,10 @@ module.exports = nativeDescription: "Español (América Latina)", englishDescrip
     update_old_classroom_detail_2: "y entregando a los estudiantes el nuevo Código de Clase que aparecerá."
     view_assessments: "Ver evaluaciones"
     view_challenges: "ver niveles de desafío"
-#    view_ranking: "view ranking"
-#    ranking_position: "Position"
-#    ranking_players: "Players"
-#    ranking_completed_leves: "Completed levels"
+    view_ranking: "ver ranking"
+    ranking_position: "Posición"
+    ranking_players: "Jugadores"
+    ranking_completed_leves: "Niveles completos"
     challenge: "Desafío:"
     challenge_level: "Nivel de Desafío:"
     status: "Estado:"
@@ -1681,7 +1681,7 @@ module.exports = nativeDescription: "Español (América Latina)", englishDescrip
     no_classrooms_found: "No se encontraron sulas"
     create_classroom_manually: "Crear un aula manualmente"
     classes: "Clases"
-#    certificate_btn_print: "Print"
+    certificate_btn_print: "Imprimir"
 #    certificate_btn_toggle: "Toggle"
 #    ask_next_course: "Want to play more? Ask your teacher for access to the next course."
 #    set_start_locked_level: "Lock levels starting at"
